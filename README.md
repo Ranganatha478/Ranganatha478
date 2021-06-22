@@ -1,4 +1,4 @@
-![Headshot](Ranganatha_Chawan.JPG)
+![Headshot](Ranganatha-Chawan.JPG)
 
 # A little insight into Ranganatha Chawan
 Hi Everyone! My name is Ranganatha Chawan and I am a Embedded Softwrare Engineer | Freelance Web Developer. This README will give you a bit of information about me!
