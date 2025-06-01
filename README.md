@@ -7,9 +7,10 @@ I am a passionate automotive embedded software developer with expertise in C/C++
 - 📚 Pursuing a certification in AUTOSAR.
 - 🌱 Exploring advanced driver-assistance systems (ADAS) and autonomous driving technologies.
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Skills
 - Embedded C/C++
 - Python
+- Ethernet(ETH)
 - CAN bus
 - AUTOSAR
 - Git
